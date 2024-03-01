@@ -1,5 +1,5 @@
 # projeto4_Azure
-Esta ferramenta do Azure, ajuda em diversas areas de serviço ou apenas agilizar um procedimento do dia.Na minha utilização de teste para desenvolver uma ferramenta para detectar de formas mais rápidas recuperar certas informações, as partes chaves, sentimentos de usuários digitados em partes de opnião, buscar informações relevantes para uma determinada tarefa filtrando texos , arquivos pdfs e imagens.
+Esta ferramenta do Azure, ajuda em diversas areas de serviço ou apenas agilizar um procedimento do dia.Na minha utilização de teste para desenvolver uma ferramenta para detectar de formas mais rápidas recuperar certas informações, as partes chaves, sentimentos de usuários digitados em partes de opnião, buscar informações relevantes para uma determinada tarefa filtrando textos , arquivos pdfs e imagens.
 Para criar uma estrura para buscar informações,temos que criar recursos do Azure que juntos e conectados, auxiliam em pesquisas e buscas de informações. Criando três recursos,Azure Ai service,Azure Ai search e storage accounts.
  Depois de Configurar os três recursos, entre no Azure Ai search na opção serach explore e dependendo da sua busca o comando muda por exemplo:
 
